@@ -4,7 +4,7 @@ langchain==0.3.12
 langchain-community==0.3.12
 langchain-groq==0.2.0
 langgraph==0.2.54
-fastmcp==0.4.2
+fastmcp==0.4.1
 duckduckgo-search==6.4.0
 pydantic==2.10.4
 python-dotenv==1.0.1
